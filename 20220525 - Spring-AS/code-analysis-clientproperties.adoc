@@ -1,0 +1,15 @@
+
+[[application-client.yml]]
+[source,yaml]
+----
+include::code/application-client.yml[]
+----
+
+<1> 必填；唯一值；作为 `registrationId`
+<2> 选填；默认为 `registrationId`；表明
+<3> sdfsdfd
+<4> sdfsdfd
+<5> sdfsdfd
+<6> sdfsdfd
+<7> sdfsdfd
+<8> sdfsdfd
