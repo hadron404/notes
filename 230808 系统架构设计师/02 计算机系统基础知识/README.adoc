@@ -1,0 +1,21 @@
+Computer Architecture（计算机组成结构）
+
+* 冯诺依曼结构：现代计算机系统发展的基础
+* 哈佛架构
+
+
+冯诺依曼结构将计算机硬件划分为5个部分：
+
+
+Center processing unit（CPU）
+
+Complex Instruction Set Computers,CISC：复杂指令集
+Reduced Instruction Set Computers,RISC：精简指令集
+
+
+现代趋势：RISC ， risc-v 架构
+
+专用目的处理器芯片
+
+* Graphics processing Unit，GPU：图形处理器
+*
