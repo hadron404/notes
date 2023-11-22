@@ -1,0 +1,40 @@
+= Architecture Pattern
+
+
+== Event-Driven Architecture 事件驱动架构;Event Sourcing 事件溯源
+
+== Command Query Responsibility Segregation,CQRS 命令和查询职责分离
+
+== Reactive and Actor Model
+
+== Representational State Transfer,REST 具象状态传输
+
+== Service-oriented Architecture
+
+== Microservices
+
+== Cloud Computing
+
+
+
+
+* _Patterns of Enterprise Application Architecture _：企业应用架构模式
+
+* _Reactive Messaging Patterns with the Actor Model_：说明了如何结合DDD运用Actor模型
+
+* _Build Microservices_：解释了微服务本质上等同于DDD中的限界上下文
+
+* _Test Driven Development_：红绿形式
+
+* _代码管理核心技术实践_：以下说明对于我来说较为重要部分
+
+* 说明了单一代码仓库与独立代码仓库
+* 分布式中大型团队采用语义化版本、changelog与消费者驱动的契约测试如何解决依赖兼容性问题
+* Angular团队提交消息规范与约定式提交
+* 可提高并行开发效率的手段
+** 分支策略：抽象分支、发布分支、仓库复刻、基于Git分支能力的软件开发工作流——GitFlow
+** 特性开关： 发布开关（Release Toggles）、试验开关（Experiment Toggles）、运维开关（Ops Toggles）、权限开关（Permission Toggles）
+* 多产品线开发的案例
+* 微服务架构下的代码管理实践
+* 开源与内源
+** OpenStack 大型开源项目采用自研Zuul解决大量提交的合并与审核时间，并快速定位便错或者测试失败是由哪个提交引起的
