@@ -1,0 +1,19 @@
+= DDD 里可以用到的架构风格和架构模式
+
+== 分层（Layers）
+
+== 六边形或端口和适配器（Hexagonal or Ports and Adapters）
+
+== 面向服务（Service-Oriented）
+
+== 具象状态转移（Representational State Transfer,REST）
+
+== 命令查询职责分离（Command-Query Responsibility Segregation,CQRS）
+
+== 事件驱动架构（Event-Driven Architecture）
+
+== 数据织物与基于网格的分布式计算（Data Fabric and Grid-Based Distributed Computing）
+
+
+
+
