@@ -29,7 +29,6 @@ RSA签名过程：A 收到 B 的消息，需进行回复。
 . B 收到消息后,在获取A的公钥进行验签,如果验签出来的内容与消息本身一直,证明消息是 A 回复的
 
 
-
 参考文献
 
 https://mp.weixin.qq.com/s/i4wnVNSZxp4gdhRQrlXgWA[Springboot 快速实现 API 加密]
